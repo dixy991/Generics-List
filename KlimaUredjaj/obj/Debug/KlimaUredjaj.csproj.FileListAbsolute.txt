@@ -1,0 +1,10 @@
+C:\Users\Ana\source\repos\KlimaUredjaj\KlimaUredjaj\bin\Debug\KlimaUredjaj.exe.config
+C:\Users\Ana\source\repos\KlimaUredjaj\KlimaUredjaj\bin\Debug\KlimaUredjaj.exe
+C:\Users\Ana\source\repos\KlimaUredjaj\KlimaUredjaj\bin\Debug\KlimaUredjaj.pdb
+C:\Users\Ana\source\repos\KlimaUredjaj\KlimaUredjaj\obj\Debug\KlimaUredjaj.csproj.AssemblyReference.cache
+C:\Users\Ana\source\repos\KlimaUredjaj\KlimaUredjaj\obj\Debug\KlimaUredjaj.Form1.resources
+C:\Users\Ana\source\repos\KlimaUredjaj\KlimaUredjaj\obj\Debug\KlimaUredjaj.Properties.Resources.resources
+C:\Users\Ana\source\repos\KlimaUredjaj\KlimaUredjaj\obj\Debug\KlimaUredjaj.csproj.GenerateResource.cache
+C:\Users\Ana\source\repos\KlimaUredjaj\KlimaUredjaj\obj\Debug\KlimaUredjaj.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\KlimaUredjaj\KlimaUredjaj\obj\Debug\KlimaUredjaj.exe
+C:\Users\Ana\source\repos\KlimaUredjaj\KlimaUredjaj\obj\Debug\KlimaUredjaj.pdb
